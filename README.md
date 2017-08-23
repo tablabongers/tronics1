@@ -1,5 +1,8 @@
 # tronics1
 
+## we
+
+
 タブラボンゴ用のon-the-flyなsampler/looper
 
 todo:
